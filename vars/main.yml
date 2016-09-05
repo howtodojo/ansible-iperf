@@ -1,0 +1,4 @@
+---
+# vars file for ansible-iperf
+iperf_packages:
+  - iperf
